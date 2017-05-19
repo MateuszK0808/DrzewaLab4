@@ -1,0 +1,6 @@
+D:\Studia\Algorytmy\DrzewaLab4\DrzewaLab4\bin\Debug\DrzewaLab4.exe.config
+D:\Studia\Algorytmy\DrzewaLab4\DrzewaLab4\bin\Debug\DrzewaLab4.exe
+D:\Studia\Algorytmy\DrzewaLab4\DrzewaLab4\bin\Debug\DrzewaLab4.pdb
+D:\Studia\Algorytmy\DrzewaLab4\DrzewaLab4\obj\Debug\DrzewaLab4.csprojResolveAssemblyReference.cache
+D:\Studia\Algorytmy\DrzewaLab4\DrzewaLab4\obj\Debug\DrzewaLab4.exe
+D:\Studia\Algorytmy\DrzewaLab4\DrzewaLab4\obj\Debug\DrzewaLab4.pdb
